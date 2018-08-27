@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517004422963",
+    "firebase_url": "https://zonaskate-877ff.firebaseio.com",
+    "project_id": "zonaskate-877ff",
+    "storage_bucket": "zonaskate-877ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517004422963:android:ba7b9bfbf5ce85a0",
+        "android_client_info": {
+          "package_name": "com.taufiqtab.zonaskate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517004422963-8joh0ulv8rj09e0f7f2skqj0q139fkai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taufiqtab.zonaskate",
+            "certificate_hash": "bdd81b7ddb2a1e23d02468cff16d47abcc97f45a"
+          }
+        },
+        {
+          "client_id": "517004422963-g9tjp8b0n779v8l851qg9l2cuvonb2jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4ryWh-EhJzuEjCL-hwpUdpyIbTpTfKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517004422963-g9tjp8b0n779v8l851qg9l2cuvonb2jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
